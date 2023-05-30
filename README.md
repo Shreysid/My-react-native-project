@@ -1,7 +1,9 @@
 # My-react-native-project
+
 A mobile application developed using react-native
 
 To run:
+npm init
 cd Emocracy
 npx expo start
 
