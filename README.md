@@ -10,3 +10,5 @@ npx expo start
 **Installs required:**
 -download Expo Go app from the app store or from google play store
 -both the mobile device and the machine running the project should be on the same network
+
+#Project under development#
